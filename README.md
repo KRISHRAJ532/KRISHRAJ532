@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna Kumar
-- 👀 I’m interested in ... C, C++, Java, JavaScript, HTML, CSS
+- 👀 I’m interested in ... Java, JavaScript, HTML, CSS, MySQL
 - 🌱 I’m currently learning ... MCA VIT BHOPAL UNIVERSITY
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
